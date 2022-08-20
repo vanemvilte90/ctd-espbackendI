@@ -10,5 +10,6 @@
 #  - thirdMail
 
 # CLASE 6
-image:
-  data: https://cf.ltkcdn.net/gatos/images/std/236641-800x515r1-etapas-desarrollo-gatitos.jpg
+#image:
+#  data: https://cf.ltkcdn.net/gatos/images/std/236641-800x515r1-etapas-desarrollo-gatitos.jpg
+global-message: "https://cf.ltkcdn.net/gatos/images/std/236641-800x515r1-etapas-desarrollo-gatitos.jpg"
