@@ -1,9 +1,14 @@
-server:
-  port: ${PORT:9999}
-message: 
-  specific-information: Consumer configuration. Server is alive for PROD profile
+# CLASE 5
+#server:
+#  port: ${PORT:9999}
+#message: 
+#  specific-information: Consumer configuration. Server is alive for PROD profile
 
-domain-mail-enabled:
-  - firstMail
-  - secondMail
-  - thirdMail
+#domain-mail-enabled:
+#  - firstMail
+#  - secondMail
+#  - thirdMail
+
+# CLASE 6
+image:
+  data: https://cf.ltkcdn.net/gatos/images/std/236641-800x515r1-etapas-desarrollo-gatitos.jpg
